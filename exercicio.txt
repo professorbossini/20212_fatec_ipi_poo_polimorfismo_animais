@@ -1,0 +1,13 @@
+1. Crie uma classe para representar figuras de duas dimensões.
+
+2. Os tipos desejados são, retângulo, quadrado e triângulo retângulo.
+
+3. Represente os tipos todos na mesma classe, usando uma variável int.
+
+4. Escreva uma classe de Teste em que uma lista é construída, nela
+são adicionadas algumas figuras (talvez 4) e a área é exibida.
+
+5. Reescreva a sua solução utilizando uma hierarquia de classes,
+a sobrescrita de métodos e, portanto, o polimorfismo dinâmico.
+
+6. Ajuste a classe de teste para que a área de cada figura seja exibida dessa forma.
